@@ -1,4 +1,4 @@
-package oop.ch3;
+package oop.ch3.abstraction;
 
 public class MouseDriver {
     public static void main(String[] args) {

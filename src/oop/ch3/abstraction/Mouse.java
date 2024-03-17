@@ -1,4 +1,4 @@
-package oop.ch3;
+package oop.ch3.abstraction;
 
 public class Mouse {
     public String name;
