@@ -1,6 +1,8 @@
 package datastructure.list.arraylist;
 
 import java.util.Arrays;
+import datastructure.list.arraylist.IList;
+
 
 public class MyArrayList<T> implements IList<T> {
     private static final int DEFAULT_SIZE = 50;
